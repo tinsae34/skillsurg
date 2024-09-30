@@ -1,0 +1,29 @@
+*{
+    background-color: rgb(25, 22, 22);
+}
+.dis{
+    color: rgb(255, 255, 255);
+}
+
+.dis h1{
+    padding-top: 10%; 
+    text-align: center;
+    font-size: 100px;
+}
+.dis p{
+    text-align: center;
+    padding-top: 3%;
+    
+    font-size: large;
+}
+.dis button{
+    align-items: center;
+    margin-left: 45%;
+    margin-top: 2%;
+    background-color: red;
+    color: red;
+    border-radius: 0.5rem;
+}
+#btn{
+    width: 130px;
+}
